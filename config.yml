@@ -65,8 +65,8 @@ outputs:
 
 params:
     env: # to enable google analytics, opengraph, twitter-cards and schema (this was: production  )
-    description: "Discover the very best Kayak to buy with our honest reviews at Kayaktobuy.com!"
-    author: Best Kayak To Buy
+    description: "Discover the very best Kayak to buy with our honest reviews at Cricut Machines Expert!"
+    author: Cricut Machines Expert
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: light
@@ -98,7 +98,7 @@ params:
     homeInfoParams:
         Title: "Cricut Machines Expert"
         Content: >
-            Welcome to cricutmachinesexpert.com
+            Welcome to cricutmachinesexpert.com, check out our posts below to find our honest opinions on the latest Cricut Machines out there.
 
             Check out our posts below.
 
