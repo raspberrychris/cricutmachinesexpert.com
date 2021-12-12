@@ -89,6 +89,7 @@ fields:
     name: appendFilePath
     label: appendFilePath
 pages:
+- content/posts/cricut-blue-maker.md
 - content/posts/cricut-explore-air-2-machine-bundle-iron-on-vinyl-pack-tools-pen-design-beginner-guide.md
 - content/posts/cricut-explore-air-2.md
 - content/posts/cricut-joy-machine.md
