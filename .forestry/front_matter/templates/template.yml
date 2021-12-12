@@ -88,3 +88,5 @@ fields:
   - type: boolean
     name: appendFilePath
     label: appendFilePath
+pages:
+- content/posts/cricut-explore-air-2.md
